@@ -1,0 +1,31 @@
+﻿Route_ID,Origin,Destination,Distance_KM
+R001,Tambaram,Nungambakkam,23
+R002,T Nagar,Medavakkam,16
+R003,Medavakkam,Egmore,28
+R004,Medavakkam,Egmore,35
+R005,Nungambakkam,Medavakkam,18
+R006,Perungudi,Medavakkam,24
+R007,Sholinganallur,Porur,41
+R008,Perungudi,Sholinganallur,25
+R009,Medavakkam,Guindy,26
+R010,Sholinganallur,Porur,29
+R011,Avadi,Nungambakkam,13
+R012,Anna Nagar,OMR IT Corridor,22
+R013,Thiruvanmiyur,Anna Nagar,21
+R014,Guindy,Chromepet,34
+R015,Avadi,Nungambakkam,37
+R016,Chromepet,Tambaram,21
+R017,Chromepet,Thiruvanmiyur,9
+R018,Mylapore,Thiruvanmiyur,38
+R019,Chennai Central,Ambattur,27
+R020,Thiruvanmiyur,Chromepet,42
+R021,Nungambakkam,Sholinganallur,39
+R022,Sholinganallur,Porur,35
+R023,Perungudi,Chennai Central,32
+R024,Avadi,Thiruvanmiyur,18
+R025,Medavakkam,Anna Nagar,42
+R026,Chennai Central,Thiruvanmiyur,9
+R027,Guindy,Chromepet,16
+R028,Medavakkam,Velachery,11
+R029,Porur,Thiruvanmiyur,28
+R030,Adyar,Medavakkam,28

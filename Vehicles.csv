@@ -1,0 +1,61 @@
+﻿Vehicle_ID,Vehicle_Type,Capacity,Vehicle_Age_Years,Fuel_Type
+BUS001,Mini Bus,30,2,Diesel
+BUS002,Electric Bus,55,1,Electric
+BUS003,Bus,50,5,Diesel
+BUS004,Mini Bus,30,4,Diesel
+BUS005,Electric Bus,55,4,Electric
+BUS006,Bus,50,3,Diesel
+BUS007,Mini Bus,30,2,Diesel
+BUS008,Electric Bus,55,9,Electric
+BUS009,Bus,50,2,Diesel
+BUS010,Mini Bus,30,7,Diesel
+BUS011,Electric Bus,55,1,Electric
+BUS012,Bus,50,1,Diesel
+BUS013,Mini Bus,30,2,Diesel
+BUS014,Electric Bus,55,4,Electric
+BUS015,Bus,50,4,Diesel
+BUS016,Mini Bus,30,9,Diesel
+BUS017,Electric Bus,55,1,Electric
+BUS018,Bus,50,9,Diesel
+BUS019,Mini Bus,30,4,Diesel
+BUS020,Electric Bus,55,9,Electric
+BUS021,Bus,50,7,Diesel
+BUS022,Mini Bus,30,4,Diesel
+BUS023,Electric Bus,55,8,Electric
+BUS024,Bus,50,5,Diesel
+BUS025,Mini Bus,30,1,Diesel
+BUS026,Electric Bus,55,3,Electric
+BUS027,Bus,50,7,Diesel
+BUS028,Mini Bus,30,6,Diesel
+BUS029,Electric Bus,55,5,Electric
+BUS030,Bus,50,3,Diesel
+BUS031,Mini Bus,30,4,Diesel
+BUS032,Electric Bus,55,6,Electric
+BUS033,Bus,50,2,Diesel
+BUS034,Mini Bus,30,2,Diesel
+BUS035,Electric Bus,55,7,Electric
+BUS036,Bus,50,2,Diesel
+BUS037,Mini Bus,30,6,Diesel
+BUS038,Electric Bus,55,6,Electric
+BUS039,Bus,50,5,Diesel
+BUS040,Mini Bus,30,1,Diesel
+BUS041,Electric Bus,55,8,Electric
+BUS042,Bus,50,9,Diesel
+BUS043,Mini Bus,30,2,Diesel
+BUS044,Electric Bus,55,7,Electric
+BUS045,Bus,50,2,Diesel
+BUS046,Mini Bus,30,9,Diesel
+BUS047,Electric Bus,55,5,Electric
+BUS048,Bus,50,6,Diesel
+BUS049,Mini Bus,30,4,Diesel
+BUS050,Electric Bus,55,2,Electric
+BUS051,Bus,50,1,Diesel
+BUS052,Mini Bus,30,4,Diesel
+BUS053,Electric Bus,55,5,Electric
+BUS054,Bus,50,2,Diesel
+BUS055,Mini Bus,30,4,Diesel
+BUS056,Electric Bus,55,2,Electric
+BUS057,Bus,50,7,Diesel
+BUS058,Mini Bus,30,5,Diesel
+BUS059,Electric Bus,55,8,Electric
+BUS060,Bus,50,6,Diesel
