@@ -6,11 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import warnings
 
-warnings.filterwarnings(
-    "ignore",
-    message=r"The provided table name 'Trip_Anomaly_Results'.*"
-)
-
 from sqlalchemy import create_engine, URL
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import IsolationForest
@@ -20,7 +15,7 @@ from sklearn.ensemble import IsolationForest
 connection_url = URL.create(
     "mysql+pymysql",
     username="root",
-    password="Rebu@deni1128",
+    password="XXXXXX",
     host="127.0.0.1",
     port=3306,
     database="smart_transportation"
@@ -464,11 +459,7 @@ print(
     "\nSaved:"
     "\nTransportation_Analytics_With_Anomalies.csv"
 )
-
-
-# ============================================================
 # 30. SAVE ONLY ML RESULTS
-# ============================================================
 
 ml_results = df[
     [
